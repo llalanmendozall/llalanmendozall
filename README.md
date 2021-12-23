@@ -1,5 +1,5 @@
 <h2> Hi, I'm Alan Mendoza! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"></h2>
-<img align='right' src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="230">
 
 
 [![Twitter: JohanAlan05](https://img.shields.io/twitter/follow/JohanAlan05?style=social)](https://twitter.com/JohanAlan05)
