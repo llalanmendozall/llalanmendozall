@@ -14,7 +14,7 @@ const alan = {
   pronouns: "He" | "him",
   code: [Javascript, HTML, CSS, PHP],
   tools: [Bootstrap, Sql],
-  learning: [React,Node, TailwingCSS]
+  learning: [React,Node, TailwindCSS]
 }
 ```
 
